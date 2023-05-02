@@ -13,4 +13,4 @@ O programa leva como base como se  o mecanico estivesse preparando um recibo ao 
   4.1.Nome da Peça
   4.2.Preço
 
-Sera impresso o recibo com nome do cliente,modelo do carro, nome do mecanica preço por peça e total.
+Sera impresso o recibo com nome do cliente,modelo do carro, nome do mecanico, preço por peça e total.
